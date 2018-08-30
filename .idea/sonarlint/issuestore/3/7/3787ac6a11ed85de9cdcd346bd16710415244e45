@@ -1,0 +1,6 @@
+
+gsquid:UselessImportCheck"?Remove this unused import 'android.support.annotation.NonNull'.(¼Åß8´¢Ø,
+Zsquid:UselessImportCheck"1Remove this unused import 'android.os.AsyncTask'.(À»¥—8´¢Ø,
+wsquid:UselessImportCheck"NRemove this unused import 'android.arch.persistence.db.SupportSQLiteDatabase'.(Œ¨œÛ8´¢Ø,
+tsquid:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø‡­Ûÿÿÿÿÿ8´¢Ø,
+Zsquid:S2168"9Remove this dangerous instance of double-checked locking.(’¤—éúÿÿÿÿ8´¢Ø,
